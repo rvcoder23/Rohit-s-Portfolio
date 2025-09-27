@@ -25,25 +25,23 @@ Built with React and Tailwind CSS, it features interactive tabs for portfolio se
 
 ### Hero Section
 
-![Hero Section](public/assets/hero-bg.jpg)
+![Hero Section](src/assets/scrrenshots/homeimage.png)
 Dynamic background with gradient text and floating icons.
 
 ### About Section
 
-![About Section](public/placeholder.svg)
+![About Section](src/assets/scrrenshots/aboutme.png)
 Profile image, stats cards, and layered card stacking animation on scroll.
 
 ### Portfolio Tabs
 
-![Portfolio Section](public/placeholder.svg)
+![Portfolio Section](src/assets/scrrenshots/portfolioshow.png)
 Interactive tabs showing projects, certificates, and tech stack grids.
 
 ### Contact Section
 
-![Contact Section](public/placeholder.svg)
+![Contact Section](src/assets/scrrenshots/contactme.png)
 Form with info cards and simulated submission feedback.
-
-_(Note: Replace placeholder.svg with actual screenshots in public/screenshots/ for production. You can capture these from the running dev server.)_
 
 ## Tech Stack
 
